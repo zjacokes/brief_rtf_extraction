@@ -4,6 +4,8 @@ import os
 import argparse
 from striprtf.striprtf import rtf_to_text
 
+# This script is for the BRIEF Self-Report Youth version
+
 # Function to process a single RTF file
 def process_rtf_file(file_path):
     # Read the RTF file and extract the plain text
