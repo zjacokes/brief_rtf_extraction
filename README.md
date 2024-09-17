@@ -5,7 +5,8 @@ This repo contains a series of python scripts that can be used to extract the su
 3. BRIEF-2 Informant-Report (Youth version)
 4. BRIEF-A Informant-Report (Adult version)
 
-From a command line, usage of each of these scripts is as follows: `python {script_name}.py {/path/to/rtf_directory} {output_file}.csv`
+From a command line, usage of each of these scripts is as follows: 
+`python {script_name}.py {/path/to/rtf_directory} {output_file}.csv`
 
 Where {script_name} corresponds to one of these four scripts, {/path/to/rtf_directory} is the absolute file path to a directory with a list of BRIEF .rtf score reports, and {output_file} is whatever you want to name the resulting output.
 
